@@ -1,0 +1,11 @@
+A:\МДК 01.01\base_alg\lab8_03_03\lab8_03_03\bin\Debug\lab8_03_03.exe.config
+A:\МДК 01.01\base_alg\lab8_03_03\lab8_03_03\bin\Debug\lab8_03_03.exe
+A:\МДК 01.01\base_alg\lab8_03_03\lab8_03_03\bin\Debug\lab8_03_03.pdb
+A:\МДК 01.01\base_alg\lab8_03_03\lab8_03_03\obj\Debug\lab8_03_03.csproj.AssemblyReference.cache
+A:\МДК 01.01\base_alg\lab8_03_03\lab8_03_03\obj\Debug\lab8_03_03.csproj.SuggestedBindingRedirects.cache
+A:\МДК 01.01\base_alg\lab8_03_03\lab8_03_03\obj\Debug\lab8_03_03.Properties.Resources.resources
+A:\МДК 01.01\base_alg\lab8_03_03\lab8_03_03\obj\Debug\lab8_03_03.csproj.GenerateResource.cache
+A:\МДК 01.01\base_alg\lab8_03_03\lab8_03_03\obj\Debug\lab8_03_03.csproj.CoreCompileInputs.cache
+A:\МДК 01.01\base_alg\lab8_03_03\lab8_03_03\obj\Debug\lab8_03_03.exe
+A:\МДК 01.01\base_alg\lab8_03_03\lab8_03_03\obj\Debug\lab8_03_03.pdb
+A:\МДК 01.01\base_alg\lab8_03_03\lab8_03_03\obj\Debug\lab8_03_03.Form1.resources
